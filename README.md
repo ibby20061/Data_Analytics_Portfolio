@@ -1,4 +1,4 @@
-# excel-data-project
+# Ibrahim Shabir Data Analysis Portfolio
 
 # Sales Data Analysis Project
 
