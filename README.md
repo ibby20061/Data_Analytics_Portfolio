@@ -37,7 +37,7 @@ Feel free to explore the SQL scripts to see how data can be processed and analyz
 
 ---
 
-*If you want, you can add your actual project data, sample database schema, or links to live databases if applicable.*
+
 
 
 
