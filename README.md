@@ -38,9 +38,13 @@ Feel free to explore the SQL scripts to see how data can be processed and analyz
 ---
 
 
+---
 
 
+---
 
+
+---
 
 # Excel Sales Data Analysis Project
 
