@@ -25,11 +25,7 @@ This project involves using SQL to extract, clean, and analyze data from relatio
 - Analytical thinking applied to database-driven business problems  
 - Collaboration and documentation of database structures and queries  
 
-## How to Use  
-1. Clone the repository.  
-2. Open the SQL files in your preferred SQL environment.  
-3. Run queries step-by-step to understand the analysis process.  
-4. Modify queries to explore the data further or adapt to your own datasets.
+
 
 ---
 
