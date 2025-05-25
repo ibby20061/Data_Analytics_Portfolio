@@ -1,6 +1,41 @@
 # Ibrahim Shabir Data Analysis Portfolio
+---
+#  Power BI Sales Dashboard
+
+This project is a beginner-friendly **interactive dashboard** built in Power BI, designed to analyze and visualize sales data by **region**, **category**, and **date**.
+
+##  What It Includes
+
+- Total revenue and units sold across all regions
+- Sales trends over time
+- Dynamic filters for region and category
+- Clean layout with stacked bar charts, slicers, and cards
+- Built-in summary metrics for quick insights
+
+##  Skills Demonstrated
+
+- Data cleaning & transformation
+- Building interactive dashboards
+- Data visualization best practices
+- Business storytelling with data
+- Power BI fundamentals: Cards, Charts, Slicers, and DAX
 
 
+##  Tools Used
+
+- Power BI Desktop
+- Microsoft Excel (for the dataset)
+
+---
+
+This is part of my growing data portfolio. More projects coming soon — including SQL and Python-based analytics work.
+
+
+
+---
+---
+---
+---
 
 # SQL Data Analysis Project
 
