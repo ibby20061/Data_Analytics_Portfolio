@@ -28,7 +28,7 @@ This project is a beginner-friendly **interactive dashboard** built in Power BI,
 
 ---
 
-This is part of my growing data portfolio. More projects coming soon — including SQL and Python-based analytics work.
+This is part of my growing data portfolio.
 
 
 
